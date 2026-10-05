@@ -1,0 +1,15 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Server
+server/.env
+node_modules/
+npm-debug.log*
+
+# Secrets
+*.key
+*.pem
